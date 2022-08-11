@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Github Webhook!" );
+        System.out.println( "Hello EC2 Jenkins Job" );
     }
 }
